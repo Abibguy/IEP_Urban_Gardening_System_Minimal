@@ -1,5 +1,3 @@
----
-
 ## IEP\_Urban\_Gardening\_System\_Minimal
 
 An Arduino-based environmental monitoring and automation system designed for small-scale urban gardening. This project utilizes the RichShield sensor suite to track and respond to key greenhouse parameters, specifically temperature, humidity, and ambient light levels.
