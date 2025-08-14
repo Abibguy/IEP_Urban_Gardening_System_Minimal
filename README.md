@@ -1,5 +1,7 @@
 ## IEP\_Urban\_Gardening\_System\_Minimal
 
+Collaboration between Prabhu Sumathi Vanavan and Abinaash Abirama Sundaram of Singapore Polytechnic (Year 1 Computer Engineering DCPE stduents) 
+
 An Arduino-based environmental monitoring and automation system designed for small-scale urban gardening. This project utilizes the RichShield sensor suite to track and respond to key greenhouse parameters, specifically temperature, humidity, and ambient light levels.
 
 ### Technical Overview
